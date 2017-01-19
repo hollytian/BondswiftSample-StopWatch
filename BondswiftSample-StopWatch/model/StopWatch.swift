@@ -6,9 +6,6 @@
 //  Copyright © 2017年 田　甜. All rights reserved.
 //
 
-//Installing Bond (5.2.0)
-//Installing ReactiveKit (3.1.1)
-
 import Foundation
 
 import Bond
