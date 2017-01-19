@@ -1,0 +1,6 @@
+framework module Pods_BondswiftSample_StopWatch {
+  umbrella header "Pods-BondswiftSample-StopWatch-umbrella.h"
+
+  export *
+  module * { export * }
+}

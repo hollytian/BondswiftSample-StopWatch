@@ -1,0 +1,15 @@
+PODS:
+  - Bond (5.2.0):
+    - ReactiveKit (~> 3.1)
+  - ReactiveKit (3.1.1)
+
+DEPENDENCIES:
+  - Bond
+
+SPEC CHECKSUMS:
+  Bond: 1b47668f3c9fb3f5aec3655c5b9315ab435610f6
+  ReactiveKit: e830df3deeb6cdf2acd18cee5cf07cb25488ae4e
+
+PODFILE CHECKSUM: 3bd6a90f686b17d17b66f625e4ec8e526e80c44a
+
+COCOAPODS: 1.1.1
